@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large model files
+*.pt
+*.h5
+
+# VS Code
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
