@@ -1,0 +1,9 @@
+numpy
+torch
+stable-baselines3
+gym>=0.21,<0.27
+scikit-learn
+matplotlib
+fastapi
+uvicorn
+streamlit
