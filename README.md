@@ -20,8 +20,8 @@ This project implements a **Reinforcement Learning system for real-time financia
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Armandkay/ArmandKayiranga_rl_summative.git
+cd <ArmandKayiranga_rl_summative>
 ````
 
 ### 2. Create & Activate Virtual Environment
